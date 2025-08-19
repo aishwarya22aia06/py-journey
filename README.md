@@ -1,6 +1,5 @@
 # py-journey
-
-# Beginner to Pro Journey in Python
+Beginner to Pro Journey in Python
 
 Welcome to my Python journey! 🌟  
 This repository documents my progress from a Python beginner to a proficient developer, featuring code samples, learning notes, and project milestones.
